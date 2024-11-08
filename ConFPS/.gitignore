@@ -1,0 +1,51 @@
+# Ignore executable files
+*.exe
+*.dll
+
+# Ignore build and debug files
+*.obj
+*.o
+*.pdb
+*.idb
+*.ipch
+*.ilk
+
+# Ignore precompiled headers
+*.pch
+*.gch
+
+# Ignore Visual Studio files
+*.sln
+*.vcxproj*
+*.opensdf
+*.sdf
+*.VC.db
+.vscode/
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+
+# Ignore Code::Blocks files
+*.layout
+*.cbp
+
+# Ignore MinGW specific files
+*.a
+*.d
+
+# Ignore backup files
+*.bak
+*~
+
+# Ignore system files
+Thumbs.db
+.DS_Store
+
+# Ignore log files and temporary files
+*.log
+*.tmp
+
+# Ignore compiled binary files
+bin/
+build/
+.vs/
