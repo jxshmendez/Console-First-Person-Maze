@@ -16,7 +16,6 @@ A simple first-person maze navigation game built using C++ with console-based re
 
 ![Image 2](./images/ConsoleRaycasting2.png)
 
-> Replace the placeholders (`./screenshots/gameplay-example.png` and `./screenshots/minimap-example.png`) with the actual paths to your screenshots. Save your images in a `screenshots` folder in the repository.
 
 
 ## Controls
