@@ -168,5 +168,5 @@ Raycasting was popularized in early 3D games, such as:
 - **Wolfenstein 3D**: One of the first 3D first-person shooters.
 - **Doom**: Used advanced raycasting techniques for immersive gameplay.
 
-
+In this project, raycasting is implemented to create a 3D-like environment within the constraints of a console-based application.
 
