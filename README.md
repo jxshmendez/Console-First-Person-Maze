@@ -170,3 +170,4 @@ Raycasting was popularized in early 3D games, such as:
 
 In this project, raycasting is implemented to create a 3D-like environment within the constraints of a console-based application.
 
+-Josh
