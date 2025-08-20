@@ -154,18 +154,7 @@ if (bBoundary) nShade = ' '; // Light boundary shading
    - The floor and ceiling are rendered with characters representing various levels of shading.
    - The shading changes based on the distance from the player, creating a perspective effect.
 
-### Benefits of Raycasting
 
-- **Efficiency**:
-  Raycasting focuses only on visible parts of the environment, making it computationally efficient compared to rendering entire 3D environments.
-
-- **Simplicity**:
-  Raycasting uses simple geometry and trigonometry, making it accessible for 2D-to-3D rendering.
-
-### Applications
-
-Raycasting was popularized in early 3D games, such as:
-- **Wolfenstein 3D**: One of the first 3D first-person shooters.
 - **Doom**: Used advanced raycasting techniques for immersive gameplay.
 
 In this project, raycasting is implemented to create a 3D-like environment within the constraints of a console-based application.
